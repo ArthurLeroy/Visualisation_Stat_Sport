@@ -1,0 +1,344 @@
+Exercice,Numero_exercice,Entrainement,Temps_total,Vit_max,Acc_max,Dist_sup_6km_h,Dist_70_80_max,Dist_80_90_max,Dist_sup_90_max,Acc_sup_3ms2,Nb_sprints_sup_90_max,Descriptif
+Session,0,2021_11_16_Technique_Sprint,884,8.99746,4.45434,1428.38001,173.39,256.9,150.09,11,7,Ceci est un descriptif de séance plutôt court
+Echauffement Footing,1,2021_11_16_Technique_Sprint,380,2.91903,1.04082,343.91001,0,0,0,0,0,Ceci est un descriptif de séance plutôt court
+Echauffement Gammes,2,2021_11_16_Technique_Sprint,284,4.47329,1.57306,110.08,0,0,0,0,0,Ceci est un descriptif de séance plutôt court
+Accel 1,3,2021_11_16_Technique_Sprint,13,5.63288,1.67416,35.81,0,0,0,0,0,Ceci est un descriptif de séance plutôt court
+Accel 2,4,2021_11_16_Technique_Sprint,16,6.67784,1.92783,43.51,8.26,0,0,0,0,Ceci est un descriptif de séance plutôt court
+Accel 3,5,2021_11_16_Technique_Sprint,15,7.08214,2.18577,47.06,11.99,0,0,0,0,Ceci est un descriptif de séance plutôt court
+Passage de témoin 1,6,2021_11_16_Technique_Sprint,15,7.29724,2.26339,53.21,19.25,0,0,0,0,Ceci est un descriptif de séance plutôt court
+Passage de témoin 2,7,2021_11_16_Technique_Sprint,13,8.10805,4.11272,59.46,14.81,20.82,0,1,0,Ceci est un descriptif de séance plutôt court
+Passage de témoin 3,8,2021_11_16_Technique_Sprint,12,8.1311,4.15189,53.79,15.4,14.58,0,1,0,Ceci est un descriptif de séance plutôt court
+Passage de témoin 4,9,2021_11_16_Technique_Sprint,14,8.44345,4.07176,68.1,12.03,27.77,0,1,0,Ceci est un descriptif de séance plutôt court
+Passage de témoin 5,10,2021_11_16_Technique_Sprint,13,7.89202,4.16436,52.48,17.62,13.09,0,1,0,Ceci est un descriptif de séance plutôt court
+S1R1 20m+30m dont 20m de petites haies,11,2021_11_16_Technique_Sprint,16,8.54705,4.08985,78.62,12.06,39.93,1.49,1,1,Ceci est un descriptif de séance plutôt court
+S1R2 20m+30m dont 20m de petites haies,12,2021_11_16_Technique_Sprint,15,8.99746,4.04526,78.2,9.64,26.83,19.1,1,1,Ceci est un descriptif de séance plutôt court
+S1R3 20m+30m dont 20m de petites haies,13,2021_11_16_Technique_Sprint,14,8.73499,4.14999,80.29,9.02,23.31,25.03,1,1,Ceci est un descriptif de séance plutôt court
+S2R1 20m+40m dont 20m de petites haies,14,2021_11_16_Technique_Sprint,15,8.88506,4.45434,75.7,8.23,20.8,26.91,1,1,Ceci est un descriptif de séance plutôt court
+S2R2 20m+40m dont 20m de petites haies,15,2021_11_16_Technique_Sprint,17,8.92017,4.32967,89.43,11.83,19.38,35.41,1,1,Ceci est un descriptif de séance plutôt court
+S3R1 20m+30m dont 20m de petites haies,16,2021_11_16_Technique_Sprint,16,8.98996,4.2494,78.27,11.39,27.72,17.26,1,1,Ceci est un descriptif de séance plutôt court
+S3R2 20m+30m dont 20m de petites haies,17,2021_11_16_Technique_Sprint,16,8.83725,4.20483,80.46,11.86,22.67,24.89,1,1,Ceci est un descriptif de séance plutôt court
+Session,0,2021_11_16_Aerobie,977,4.02362,1.75317,1686.86002,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Echauffement Footing,1,2021_11_16_Aerobie,346,2.56573,1.10451,420.53,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Aérobie 10 diagonales,2,2021_11_16_Aerobie,631,4.02362,1.75317,1266.33002,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Session,0,2021_11_17_Depart,3016,8.35412,4.65134,1278.34001,81.35,81.74,0,8,0,Ceci est un descriptif de séance plutôt court
+Echauffement Footing,1,2021_11_17_Depart,316,2.7064,0.56863,566.20001,0,0,0,0,0,Ceci est un descriptif de séance plutôt court
+Gammes,2,2021_11_17_Depart,567,4.26121,0.95385,134.14,0,0,0,0,0,Ceci est un descriptif de séance plutôt court
+Enjambement haies 8 haies x 16,3,2021_11_17_Depart,811,2.19916,0.88403,75.47,0,0,0,0,0,Ceci est un descriptif de séance plutôt court
+Bondissements sur 5 blocs plio 60cm x12,4,2021_11_17_Depart,1165,2.37107,1.22933,16.4,0,0,0,0,0,Ceci est un descriptif de séance plutôt court
+Accel 1,5,2021_11_17_Depart,15,6.26843,2.63251,36.77,0,0,0,0,0,Ceci est un descriptif de séance plutôt court
+Quart-temps 11,6,2021_11_17_Depart,16,7.6211,3.88797,47.46,14.06,6.74,0,1,0,Ceci est un descriptif de séance plutôt court
+Accel 3,7,2021_11_17_Depart,16,7.77696,3.74392,48.97,13.38,9.78,0,1,0,Ceci est un descriptif de séance plutôt court
+S1 Départ chariot 20kg,8,2021_11_17_Depart,13,7.20414,4.60641,38.56,14.47,0,0,1,0,Ceci est un descriptif de séance plutôt court
+S1 Poussée chariot 15m 15kg,9,2021_11_17_Depart,8,3.10345,1.58927,13.69,0,0,0,0,0,Ceci est un descriptif de séance plutôt court
+S1 Tracté chariot 30kg,10,2021_11_17_Depart,9,4.54219,1.70607,23.97,0,0,0,0,0,Ceci est un descriptif de séance plutôt court
+S1 Départ start 20m,11,2021_11_17_Depart,10,7.9981,4.56142,47.61,10.25,14.53,0,1,0,Ceci est un descriptif de séance plutôt court
+S2 Poussée chariot 15m 15kg,12,2021_11_17_Depart,7,2.98666,1.548,13.54,0,0,0,0,0,Ceci est un descriptif de séance plutôt court
+S2 Tracté chariot 30kg,13,2021_11_17_Depart,8,4.35103,1.79483,21.09,0,0,0,0,0,Ceci est un descriptif de séance plutôt court
+S2 Départ start 20m,14,2021_11_17_Depart,11,8.13356,4.28784,50.93,11.27,15.65,0,1,0,Ceci est un descriptif de séance plutôt court
+S3 Poussée chariot 15m 15kg,15,2021_11_17_Depart,7,3.15397,1.49968,14.67,0,0,0,0,0,Ceci est un descriptif de séance plutôt court
+S3 Tracté chariot 30kg,16,2021_11_17_Depart,10,4.50858,2.17511,24.23,0,0,0,0,0,Ceci est un descriptif de séance plutôt court
+S3 Départ start 20m,17,2021_11_17_Depart,12,8.35412,4.65134,50.22,8.36,20.48,0,1,0,Ceci est un descriptif de séance plutôt court
+Accel,18,2021_11_17_Depart,5,5.0401,4.14106,12.21,0,0,0,1,0,Ceci est un descriptif de séance plutôt court
+S4 Départ start 20m,19,2021_11_17_Depart,10,8.16809,4.42875,42.21,9.56,14.56,0,1,0,Ceci est un descriptif de séance plutôt court
+Session,0,2021_11_19_Technique,2678,8.41679,4.2348,1491.15001,122.75,238.11,0,6,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Echauffement footing,1,2021_11_19_Technique,317,3.08221,0.47023,544.00002,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Echauffement mobilité étirements actifs,2,2021_11_19_Technique,679,1.24485,0,0,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Gammes,3,2021_11_19_Technique,691,3.97487,1.0474,163.94,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+20m Montée genoux Tempo x3,4,2021_11_19_Technique,413,3.38714,1.11632,85.43,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+20m en Petits cycles de pied vitesse gestuelle x 3,5,2021_11_19_Technique,252,5.79084,1.87247,110.97,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Quart-temps 30,6,2021_11_19_Technique,42,7.65749,2.95401,59.1,15.51,15.73,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Parcours 35m R2 (Création d'amplitude et de vitesse par cycle de pied puis course),7,2021_11_19_Technique,37,7.82728,2.94953,60.39,19.04,13.04,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Parcours 35m R4 (Création d'amplitude et de vitesse par cycle de pied puis course),8,2021_11_19_Technique,32,8.12564,2.79209,60.02,12.2,18.17,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Parcours 35m R5 (Création d'amplitude et de vitesse par cycle de pied puis course),9,2021_11_19_Technique,37,8.1302,3.23526,60.82,12.59,22.05,0,1,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Course placée R1 Virage vite,10,2021_11_19_Technique,38,8.3109,3.92259,67.45,13.68,30.23,0,1,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Course placée R2 Virage vite,11,2021_11_19_Technique,28,8.18511,4.04162,67.81,11.26,33.56,0,1,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Course placée R3 Virage vite,12,2021_11_19_Technique,55,8.41679,4.08632,72.17,12.92,37.26,0,1,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Course placée R4 Virage vite,13,2021_11_19_Technique,29,8.34715,4.2348,67.88,13.38,33.62,0,1,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Course placée R5 Virage vite,14,2021_11_19_Technique,28,8.34967,4.01018,71.17,12.17,34.45,0,1,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Session,0,2021_11_20_Aerobie,2612,7.6857,4.01521,4421.75006,388.67,17.65,0,7,0,Ceci est un descriptif de séance plutôt court
+Footing,1,2021_11_20_Aerobie,627,2.34044,1.01466,810.96002,0,0,0,0,0,Ceci est un descriptif de séance plutôt court
+Aérobie S1 (3x30s-30s + 60s-60s + 3x30s-30s),2,2021_11_20_Aerobie,624,4.86531,2.0258,1355.34003,0,0,0,0,0,Ceci est un descriptif de séance plutôt court
+Aérobie S2 (3x30s-30s + 60s-60s + 3x30s-30s),3,2021_11_20_Aerobie,629,5.08284,1.98788,1406.2,0,0,0,0,0,Ceci est un descriptif de séance plutôt court
+Echaufefment côtes Gammes,4,2021_11_20_Aerobie,533,2.89685,0.73172,76.4,0,0,0,0,0,Ceci est un descriptif de séance plutôt court
+Accel 1,5,2021_11_20_Aerobie,11,6.967,3.63776,34.59,7.31,0,0,1,0,Ceci est un descriptif de séance plutôt court
+Accel 2,6,2021_11_20_Aerobie,17,6.78023,4.01521,31.73,5.86,0,0,1,0,Ceci est un descriptif de séance plutôt court
+Côte 200m,7,2021_11_20_Aerobie,45,7.30933,3.38778,198.23001,103.17,0,0,1,0,Ceci est un descriptif de séance plutôt court
+Côte 150m,8,2021_11_20_Aerobie,34,7.67596,3.84692,148.12,93.64,14.11,0,1,0,Ceci est un descriptif de séance plutôt court
+Côte 150m,9,2021_11_20_Aerobie,36,7.41092,4.00201,144.92,79.42,0,0,1,0,Ceci est un descriptif de séance plutôt court
+Côte 120m,10,2021_11_20_Aerobie,31,7.41926,3.59328,116.24,42.86,0,0,1,0,Ceci est un descriptif de séance plutôt court
+Côte 100m,11,2021_11_20_Aerobie,25,7.6857,3.79193,99.02,56.41,3.54,0,1,0,Ceci est un descriptif de séance plutôt court
+Session,0,2021_11_23_PPG_LD,2082,6.75563,3.84617,3004.64999,14.57,0,0,2,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Footing,1,2021_11_23_PPG_LD,209,2.50591,0.7658,273.85001,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Jamaïcaine,2,2021_11_23_PPG_LD,1211,5.42597,2.07865,720.74999,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Accel 1,3,2021_11_23_PPG_LD,11,6.75563,3.70427,36.92,6.55,0,0,1,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Accel 2,4,2021_11_23_PPG_LD,12,6.72297,3.84617,32.71,8.02,0,0,1,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Accel 3,5,2021_11_23_PPG_LD,17,5.50608,2.1846,39.68,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Accel 4,6,2021_11_23_PPG_LD,15,5.70625,2.41142,37.53,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Accel 5,7,2021_11_23_PPG_LD,16,5.81119,1.54566,39.35,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Accel 6,8,2021_11_23_PPG_LD,19,5.44642,1.25639,38.07,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Diag R1S1,9,2021_11_23_PPG_LD,35,4.3256,1.1746,112.45,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Diag R2S1,10,2021_11_23_PPG_LD,36,4.11705,0.89507,111.09,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Diag R3S1,11,2021_11_23_PPG_LD,34,3.87142,1.20814,99.45,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Diag R4S1,12,2021_11_23_PPG_LD,37,4.0282,0.8757,115.3,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Diag R5S1,13,2021_11_23_PPG_LD,36,4.1172,0.92678,106.18,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Diag R6S1,14,2021_11_23_PPG_LD,35,3.94371,0.46399,111.87,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Diag R7S1,15,2021_11_23_PPG_LD,35,4.0822,1.27921,107.84,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Diag R8S1,16,2021_11_23_PPG_LD,40,3.91118,0.94182,114.15,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Diag R1S2,17,2021_11_23_PPG_LD,35,4.45086,1.91972,111.29,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Diag R2S2,18,2021_11_23_PPG_LD,37,4.0793,1.08242,115.03,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Diag R3S2,19,2021_11_23_PPG_LD,37,3.8847,1.21002,118.6,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Diag R4S2,20,2021_11_23_PPG_LD,34,3.79179,0.79322,112.8,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Diag R5S2,21,2021_11_23_PPG_LD,35,3.98396,1.17505,113.57,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Diag R6S2,22,2021_11_23_PPG_LD,36,3.89635,0.78689,117.3,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Diag R7S2,23,2021_11_23_PPG_LD,33,3.98493,0.96328,105.93,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Diag R8S2,24,2021_11_23_PPG_LD,37,3.90151,0.9043,112.94,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Session,0,2021_11_24_Vitesse_sprint,768,9.05787,4.65316,1564.59999,244.37,307.39001,199.44,12,10,Ceci est un descriptif de séance plutôt court
+Footing,1,2021_11_24_Vitesse_sprint,130,3.38408,2.42225,354.02,0,0,0,0,0,Ceci est un descriptif de séance plutôt court
+Echauffement gammes,2,2021_11_24_Vitesse_sprint,414,4.78796,1.19079,177.52,0,0,0,0,0,Ceci est un descriptif de séance plutôt court
+Accel 1,3,2021_11_24_Vitesse_sprint,20,8.21633,3.15769,67.98,12.74,27.68,0,1,0,Ceci est un descriptif de séance plutôt court
+Accel 2,4,2021_11_24_Vitesse_sprint,16,7.54128,4.3539,46.69,19.1,4.32,0,1,0,Ceci est un descriptif de séance plutôt court
+Accel 3,5,2021_11_24_Vitesse_sprint,11,7.5791,4.65316,40.52,13.91,5.19,0,1,0,Ceci est un descriptif de séance plutôt court
+30m R1,6,2021_11_24_Vitesse_sprint,16,8.83941,4.35527,69.39,8.95,18.63,19.9,1,1,Ceci est un descriptif de séance plutôt court
+30m R2,7,2021_11_24_Vitesse_sprint,16,9.03656,4.2167,68.26,7.66,16.86,21.91,1,1,Ceci est un descriptif de séance plutôt court
+30m R3,8,2021_11_24_Vitesse_sprint,16,9.04322,4.11291,67.7,8.31,16.18,23.86,1,1,Ceci est un descriptif de séance plutôt court
+60m R1,9,2021_11_24_Vitesse_sprint,19,8.88832,4.22004,91.91,11.99,34.65,23.06,1,2,Ceci est un descriptif de séance plutôt court
+60m R2,10,2021_11_24_Vitesse_sprint,17,8.98749,3.94263,88.58,12.51,22.02,29.78,1,1,Ceci est un descriptif de séance plutôt court
+50m R1,11,2021_11_24_Vitesse_sprint,19,8.67461,4.03822,80.55,11.3,26.86,17.2,1,1,Ceci est un descriptif de séance plutôt court
+50m R2,12,2021_11_24_Vitesse_sprint,17,8.90295,3.67728,78.19,10.46,17.57,26.14,1,1,Ceci est un descriptif de séance plutôt court
+50m R3,13,2021_11_24_Vitesse_sprint,15,9.05787,4.50456,80.82,11.99,15.24,33.39,1,1,Ceci est un descriptif de séance plutôt court
+250m,14,2021_11_24_Vitesse_sprint,42,8.52555,4.36433,252.47,115.45,102.19,4.2,1,1,Ceci est un descriptif de séance plutôt court
+Session,0,2021_11_26_Technique,2224,8.7387,4.45974,1484.73999,126.73,176.17,14.3,10,2,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Echauffement Footing,1,2021_11_26_Technique,284,2.85688,0.57283,534.65,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Echauffement Gammes,2,2021_11_26_Technique,1631,4.76818,1.60499,199.55,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Accel 1,3,2021_11_26_Technique,26,7.90107,2.16394,69.62,21.89,16.21,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Accel 2,4,2021_11_26_Technique,24,7.99473,4.32991,57.21,12.08,21.92,0,1,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Accel 3,5,2021_11_26_Technique,19,8.1919,4.35416,57.79,12.89,18.83,0,1,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+S1R1 15m Poussée charriot marche (21+25 kgs),6,2021_11_26_Technique,15,1.29851,0,0,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+S1R2 15m Poussée charriot marche (21+25 kgs),7,2021_11_26_Technique,13,1.44512,0,0,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+S1 20m Traction chariot lourd (40kgs),8,2021_11_26_Technique,10,4.46163,2.21376,22.2,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+S1 20m Traction chariot léger (20kgs),9,2021_11_26_Technique,9,5.71458,2.97479,23.66,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Départ,10,2021_11_26_Technique,10,6.50989,4.2987,28.01,0,0,0,1,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+S1R1 30m Départ Start,11,2021_11_26_Technique,14,8.7387,4.42776,61.03,11.3,18.52,6.72,1,1,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+S1R2 30m Départ Start,12,2021_11_26_Technique,15,8.70859,4.32335,62.02,11.33,20.8,7.58,1,1,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+S2R1 15m Poussée charriot marche (21+25 kgs),13,2021_11_26_Technique,12,1.77567,0.27477,1.45,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+S2R2 15m Poussée charriot marche (21+25 kgs),14,2021_11_26_Technique,10,1.71458,0.27119,0.28,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+S2 20m Traction chariot lourd (40kgs),15,2021_11_26_Technique,9,4.32738,2.15246,25.65,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+S2 20m Traction chariot léger (20kgs),16,2021_11_26_Technique,8,5.52548,2.93002,23.97,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+S2R1 30m Départ Start,17,2021_11_26_Technique,15,8.21858,4.36059,57.95,12.08,20.47,0,1,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Départ,18,2021_11_26_Technique,12,6.47422,4.45484,30.14,0,0,0,1,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+S2R2 30m Départ Start,19,2021_11_26_Technique,14,8.196,4.45974,60.9,12.57,22.14,0,1,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+S3R1 15m Poussée charriot marche (21+25 kgs),20,2021_11_26_Technique,11,1.77611,0.37496,3.32,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+S3R2 15m Poussée charriot marche (21+25 kgs),21,2021_11_26_Technique,12,1.55035,0,0,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+S3 20m Traction chariot lourd (40kgs),22,2021_11_26_Technique,11,3.94879,2.00813,20.29,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+S3 20m Traction chariot léger (20kgs),23,2021_11_26_Technique,9,5.16363,2.81222,22.83,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+S3R1 30m Départ Start,24,2021_11_26_Technique,14,7.64288,4.2198,52.65,17.69,7.54,0,1,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+S3R2 30m Départ Start,25,2021_11_26_Technique,17,8.31065,4.34877,69.57,14.9,29.74,0,1,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Session,0,2021_11_27_Courses_places_150m_Piste,1456,8.21896,4.31588,1451.89,264.67,685.99001,0,8,0,Ceci est un descriptif de séance plutôt court
+Echauffement Gammes,1,2021_11_27_Courses_places_150m_Piste,1173,5.93875,2.43292,281.74,0,0,0,0,0,Ceci est un descriptif de séance plutôt court
+Accel 1,2,2021_11_27_Courses_places_150m_Piste,25,7.52799,2.557,56.22,24.86,2.17,0,0,0,Ceci est un descriptif de séance plutôt court
+Accel 2,3,2021_11_27_Courses_places_150m_Piste,21,8.09996,4.31588,61.03,13.96,21.25,0,1,0,Ceci est un descriptif de séance plutôt court
+Accel 3,4,2021_11_27_Courses_places_150m_Piste,26,8.21896,4.13469,56.88,11.97,22.12,0,1,0,Ceci est un descriptif de séance plutôt court
+150m S1R1,5,2021_11_27_Courses_places_150m_Piste,40,8.21814,4.10485,168.07,28.67,114.98,0,1,0,Ceci est un descriptif de séance plutôt court
+150m S1R2,6,2021_11_27_Courses_places_150m_Piste,35,8.00047,4.21189,164.41,56.32,82.09,0,1,0,Ceci est un descriptif de séance plutôt court
+150m S2R1,7,2021_11_27_Courses_places_150m_Piste,32,8.03423,4.16951,168.29,37.68,106.98,0,1,0,Ceci est un descriptif de séance plutôt court
+150m S2R2,8,2021_11_27_Courses_places_150m_Piste,37,7.91996,4.28881,165.25999,37.89,104.16,0,1,0,Ceci est un descriptif de séance plutôt court
+150m S3R1,9,2021_11_27_Courses_places_150m_Piste,32,8.10798,4.25625,166.51,25.11,119.03,0,1,0,Ceci est un descriptif de séance plutôt court
+150m S3R2,10,2021_11_27_Courses_places_150m_Piste,35,7.9582,4.25541,163.48,28.21,113.21,0,1,0,Ceci est un descriptif de séance plutôt court
+Session,0,2021_12_04_Aerobie,1816,5.8134,3.18674,5788.48,0,0,0,1,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+Echauffement Footing,1,2021_12_04_Aerobie,713,3.68783,1.55202,1781.18002,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+200m R1S1,2,2021_12_04_Aerobie,50,5.8134,2.63943,207.35,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+200m R2S1,3,2021_12_04_Aerobie,54,5.48699,2.57466,207.1,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+200m R3S1,4,2021_12_04_Aerobie,54,5.60775,2.82337,204.52,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+250m R1S1,5,2021_12_04_Aerobie,62,5.34439,2.64954,249.81,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+250m R2S1,6,2021_12_04_Aerobie,71,5.25531,2.7261,261.47,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+300m,7,2021_12_04_Aerobie,81,5.13102,2.76377,297.6,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+200m R4S1,8,2021_12_04_Aerobie,56,5.14306,2.52509,197.69001,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+200m R5S1,9,2021_12_04_Aerobie,60,4.93962,2.85346,197.48001,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+200m R6S1,10,2021_12_04_Aerobie,59,4.89761,2.33959,197.56,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+200m R1S2,11,2021_12_04_Aerobie,57,5.18944,2.38551,201.71999,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+200m R2S2,12,2021_12_04_Aerobie,57,5.15182,2.65967,195.78,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+200m R3S2,13,2021_12_04_Aerobie,56,4.95192,2.79632,199.97999,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+250m R1S2,14,2021_12_04_Aerobie,70,4.75806,1.91151,241.97999,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+250m R2S2,15,2021_12_04_Aerobie,71,4.85375,2.65669,261.39,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+300m,16,2021_12_04_Aerobie,83,4.80334,2.38791,296.64999,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+200m R4S2,17,2021_12_04_Aerobie,52,4.95501,2.61981,195.91,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+200m R5S2,18,2021_12_04_Aerobie,53,5.34587,2.72675,197.41,0,0,0,0,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
+200m R6S2,19,2021_12_04_Aerobie,57,5.30017,3.18674,195.90001,0,0,0,1,0,"Ceci est un descriptif de séance plutôt long:
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+         tempor incididunt ut labore et dolore magna aliqua"
